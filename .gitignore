@@ -1,0 +1,15 @@
+# virtual env
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# datasets (do NOT upload the Kaggle CSV)
+data/*.csv
+
+# model artifacts (optional - see note below)
+fake_job_model.joblib
+
+# notebooks checkpoints
+.ipynb_checkpoints/
