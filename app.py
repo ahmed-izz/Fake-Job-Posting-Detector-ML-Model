@@ -27,7 +27,7 @@ def extract_text_from_url(url: str, timeout=15) -> str:
     r = requests.get(url, headers=headers, timeout=timeout)
     r.raise_for_status()
 
-    soup = BeautifulSoup(r.text, "lxml")
+    soup = BeautifulSoup(r.text, "html.parser")
 
     # Remove non-text elements
     for tag in soup(["script", "style", "noscript", "header", "footer", "nav"]):
