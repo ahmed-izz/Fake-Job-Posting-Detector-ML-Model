@@ -97,4 +97,4 @@ if analyze:
         with st.expander("Show extracted/used text (preview)"):
             st.write(text[:3000] + ("..." if len(text) > 3000 else ""))
 
-        st.caption("Disclaimer: This is an ML-based estimate for a college project, not a definitive judgement.")
+        # st.caption("Disclaimer: This is an ML-based estimate for a college project, not a definitive judgement.")
