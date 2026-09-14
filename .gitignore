@@ -9,7 +9,7 @@ __pycache__/
 data/*.csv
 
 # model artifacts (optional - see note below)
-fake_job_model.joblib
+# fake_job_model.joblib
 
 # notebooks checkpoints
 .ipynb_checkpoints/
