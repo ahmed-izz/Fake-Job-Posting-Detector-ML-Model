@@ -8,6 +8,10 @@ The project includes:
 
 ---
 
+weblink:** https://fake-job-posting-detector-ml-model-ndqqexdfkscbadbbqqjxxn.streamlit.app/
+
+---
+
 ## 1) Problem Statement
 
 Online job boards sometimes contain fraudulent job postings designed to scam job seekers or collect sensitive information.
