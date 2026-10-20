@@ -8,7 +8,7 @@ The project includes:
 
 ---
 
-weblink:** https://fake-job-posting-detector-ml-model-ndqqexdfkscbadbbqqjxxn.streamlit.app/
+**weblink:** https://fake-job-posting-detector-ml-model-ndqqexdfkscbadbbqqjxxn.streamlit.app/
 
 ---
 
